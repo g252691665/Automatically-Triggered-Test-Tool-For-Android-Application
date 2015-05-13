@@ -25,7 +25,7 @@ Monkey Runner介绍内容
   
 ## Hierarchy Viewer介绍————高跃进负责
 Hierarchy Viewer介绍内容
-  
+HierarchyViewer是Android SDK包中一个非常好用的工具，你可以在android-sdks/tools目录下可以找到它。通过HierarchyViewer，即使没有应用的源代码，我们也可以非常直观地浏览Activity中控件的层次架构图，以及每个控件的属性和截图。
 ## 获取界面元素————高跃进负责
 介绍我们的程序获取Android应用界面元素的技术细节
   
